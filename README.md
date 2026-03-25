@@ -30,7 +30,6 @@
 <div align="center">
   <img src="img/assistant.png" width="25%" alt="UTH Assistant" />
   <img src="img/post.png" width="25%" alt="Tạo bài viết" />
-  <img src="img/community.png" width="25%" alt="Cộng đồng" />
 </div>
 
 ### Quản lý tài liệu
