@@ -1,6 +1,6 @@
 # UTH-Student
 
-> Ứng dụng hỗ trợ toàn diện cho sinh viên Đại học Tây Thiên - Kết nối học tập, quản lý tài chính, chia sẻ tài liệu và nhận hỗ trợ từ AI Assistant.
+> Ứng dụng hỗ trợ toàn diện cho sinh viên - Kết nối học tập, quản lý tài chính, chia sẻ tài liệu và nhận hỗ trợ từ AI Assistant.
 
 ---
 
