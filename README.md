@@ -122,9 +122,10 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 
 ### Video Demo - Admin Dashboard
 <div align="center">
-  <img src="img/admin.gif" width="70%" alt="demo admin" />
-</div>
 
+  <img src="img/admin.gif" width="70%" alt="demo admin" />
+
+</div>
 
 
 
