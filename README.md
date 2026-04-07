@@ -52,7 +52,11 @@
 
 ### Video Demo - Mobile App
 <div align="center">
-  <iframe width="90%" height="480" src="https://www.youtube.com/embed/1hjntoiTSCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://youtu.be/1hjntoiTSCo" target="_blank">
+    <img src="https://img.youtube.com/vi/1hjntoiTSCo/maxresdefault.jpg" width="90%" alt="Video Demo Mobile App" />
+  </a>
+  <br>
+  <a href="https://youtu.be/1hjntoiTSCo" target="_blank"><strong>Xem Video Demo Mobile App</strong></a>
 </div>
 
 ---
@@ -122,9 +126,12 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 
 ### Video Demo - Admin Dashboard
 <div align="center">
-  <iframe width="90%" height="480" src="https://www.youtube.com/embed/iqbHUfXArKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://youtu.be/iqbHUfXArKI" target="_blank">
+    <img src="https://img.youtube.com/vi/iqbHUfXArKI/maxresdefault.jpg" width="90%" alt="Video Demo Admin Dashboard" />
+  </a>
+  <br>
+  <a href="https://youtu.be/iqbHUfXArKI" target="_blank"><strong>Xem Video Demo Admin Dashboard</strong></a>
 </div>
-
 
 
 
