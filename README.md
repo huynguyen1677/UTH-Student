@@ -67,6 +67,12 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 
 🔗 **[Truy cập Admin Panel](https://adminuth.onrender.com/)**
 
+### Tài khoản Demo Admin
+| Thông tin | Chi tiết |
+|-----------|---------|
+| **Email** | admin1@system.com |
+| **Mật khẩu** | admin123 |
+
 ### Chức năng Admin:
 - Dashboard - Thống kê doanh thu và hoạt động
 - Quản lý người dùng - Xem, chỉnh sửa, xóa sinh viên
@@ -115,7 +121,7 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 - Kết nối Internet
 
 ### Hướng dẫn cài đặt
-1. Tải ứng dụng từ Google Play Store hoặc App Store
+1. Tải ứng file .apk từ github và cài đặt
 2. Đăng nhập bằng tài khoản sinh viên UTH
 3. Bắt đầu sử dụng các tính năng
 
