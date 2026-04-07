@@ -50,6 +50,11 @@
     <img src="img/assistant2.png" width="25%" alt="Trò chuyện cùng trợ lý ảo" />
 </div>
 
+### Video Demo - Mobile App
+<div align="center">
+  <iframe width="90%" height="480" src="https://www.youtube.com/embed/1hjntoiTSCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Công nghệ sử dụng
@@ -74,6 +79,12 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 - Quản lý nhân sự - Quản lý roles và quyền hạn
 - Quản lý tài liệu - Duyệt và kiểm duyệt nội dung
 - Quản lý tài chính - Theo dõi giao dịch và thanh toán
+
+### Tài khoản Demo Admin
+| Thông tin | Chi tiết |
+|-----------|---------|
+| **Email** | admin1@system.com |
+| **Mật khẩu** | admin123 |
 
 ### Giao diện Admin
 
@@ -101,6 +112,11 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 <div align="center">
   <img src="img/admin_phanquyen.png" width="90%" alt="Quản lý Quyền hạn" />
   <img src="img/admin_log.png" width="90%" alt="Nhật ký Hoạt động" />
+</div>
+
+### Video Demo - Admin Dashboard
+<div align="center">
+  <iframe width="90%" height="480" src="https://www.youtube.com/embed/iqbHUfXArKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
