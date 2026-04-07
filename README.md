@@ -52,7 +52,7 @@
 
 ### Video Demo - Mobile App
 <div align="center">
-  <iframe width="90%" height="480" src="https://www.youtube.com/embed/1hjntoiTSCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <img src="img/mobile.gif" width="70%" alt="demo mobile app" />
 </div>
 
 ---
@@ -122,7 +122,7 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 
 ### Video Demo - Admin Dashboard
 <div align="center">
-  <iframe width="90%" height="480" src="https://www.youtube.com/embed/iqbHUfXArKI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <img src="img/admin.gif" width="70%" alt="demo admin" />
 </div>
 
 
