@@ -19,6 +19,11 @@
 
 ## Giao diện ứng dụng
 
+### Video Demo - Mobile App
+<div align="center">
+  <img src="img/mobile.gif" width="30%" alt="demo mobile app" />
+</div>
+
 ### Màn hình chính
 <div align="center">
   <img src="img/splash.png" width="25%" alt="Splash Screen" />
@@ -48,11 +53,6 @@
 <div align="center">
   <img src="img/assistant.png" width="25%" alt="Trợ lý ảo UTH Assistant" />
     <img src="img/assistant2.png" width="25%" alt="Trò chuyện cùng trợ lý ảo" />
-</div>
-
-### Video Demo - Mobile App
-<div align="center">
-  <img src="img/mobile.gif" width="70%" alt="demo mobile app" />
 </div>
 
 ---
@@ -94,6 +94,13 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
 
 ### Giao diện Admin
 
+### Video Demo - Admin Dashboard
+<div align="center">
+
+  <img src="img/admin.gif" width="70%" alt="demo admin" />
+
+</div>
+
 #### Dashboard
 <div align="center">
   <img src="img/admin_dashboard.png" width="90%" alt="Admin Dashboard - Thống kê" />
@@ -120,12 +127,7 @@ Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung
   <img src="img/admin_log.png" width="90%" alt="Nhật ký Hoạt động" />
 </div>
 
-### Video Demo - Admin Dashboard
-<div align="center">
 
-  <img src="img/admin.gif" width="70%" alt="demo admin" />
-
-</div>
 
 
 
