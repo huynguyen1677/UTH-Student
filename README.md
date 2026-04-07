@@ -61,6 +61,53 @@
 
 ---
 
+## Admin Dashboard
+
+Quản lý hệ thống ứng dụng, người dùng, giao dịch và nội dung:
+
+🔗 **[Truy cập Admin Panel](https://adminuth.onrender.com/)**
+
+### Chức năng Admin:
+- Dashboard - Thống kê doanh thu và hoạt động
+- Quản lý người dùng - Xem, chỉnh sửa, xóa sinh viên
+- Nhật ký hoạt động - Theo dõi tất cả hành động của hệ thống
+- Quản lý nhân sự - Quản lý roles và quyền hạn
+- Quản lý tài liệu - Duyệt và kiểm duyệt nội dung
+- Quản lý tài chính - Theo dõi giao dịch và thanh toán
+
+### Giao diện Admin
+
+#### Dashboard
+<div align="center">
+  <img src="img/admin_dashboard.png" width="90%" alt="Admin Dashboard - Thống kê" />
+</div>
+
+#### Báo cáo
+<div align="center">
+  <img src="img/admin_report.png" width="90%" alt="Admin Report" />
+</div>
+
+#### Quản lý Người dùng
+<div align="center">
+  <img src="img/admin_manageuser.png" width="90%" alt="Quản lý Người dùng" />
+</div>
+
+#### Quản lý Tài chính
+<div align="center">
+  <img src="img/admin_taichinh.png" width="90%" alt="Quản lý Tài chính" />
+</div>
+
+#### Quản lý hệ thống
+<div align="center">
+  <img src="img/admin_phanquyen.png" width="90%" alt="Quản lý Quyền hạn" />
+  <img src="img/admin_log.png" width="90%" alt="Nhật ký Hoạt động" />
+</div>
+
+
+
+
+---
+
 ## Cài đặt
 
 ### Yêu cầu hệ thống
